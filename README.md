@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Before running the project, you need install all dependencies and all library :
+Before running the project, you need install all dependencies and all library in the project directory:
 
 ### `npm install`
 
